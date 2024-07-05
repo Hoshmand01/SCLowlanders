@@ -4,3 +4,4 @@ public class HelloWorld {
         // Another change for testing Jira integration with key KAN-3
     }
 }
+"// Another change for testing Jira integration" 
